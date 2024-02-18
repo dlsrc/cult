@@ -1,0 +1,22 @@
+{
+    "name": "cult/cult",
+    "type": "project",
+    "description": "The Cult Project.",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dlsrc/cult"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Dmitry Lebedev",
+            "email": "dl@adios.ru",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.3"
+    }
+}
